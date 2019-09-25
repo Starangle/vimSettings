@@ -1,1 +1,6 @@
 # vimSettings
+
+## Installed
+
+pydiction
+
