@@ -2,5 +2,4 @@
 
 ## Installed
 
-pydiction
 
